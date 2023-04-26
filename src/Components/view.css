@@ -1,0 +1,20 @@
+.view_box{
+  height: 60px;
+  width: 75%;
+  margin:25px auto;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(16, 4, 91, 0.571);
+}
+#btn_updt{
+    color: white;
+    background-color: brown;
+    height:40px !important;
+    width: 15%;
+}
+#btn_del{
+    color: white;
+    background-color: brown;
+    height:40px !important;
+    width: 15%;
+}
